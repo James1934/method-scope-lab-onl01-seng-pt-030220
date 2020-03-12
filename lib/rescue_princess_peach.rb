@@ -7,3 +7,5 @@ describe "#rescue_princess_peach" do
   end 
 end
 
+rescue_princess_peach
+puts status
